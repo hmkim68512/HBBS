@@ -172,7 +172,7 @@
         </div>
 
     </main>
-      <a id="dkssud" href="상장.hwp"download><button>지원서 다운로드</button></a>
+      <a id="dkssud" href=".hwp"download><button>지원서 다운로드</button></a>
 
 
 
