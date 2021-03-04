@@ -120,6 +120,10 @@
         </style>
 
 </head>
+<video controls muted autoplay loop>
+   <source src="Mountains.mp4" type="video/mp4">
+   <strong>Your browser does not support the video tag.</strong>
+    </video>
 <div class="all">
 <body>
     <nav>
